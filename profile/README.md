@@ -1,6 +1,14 @@
-# unbound cognition
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Unbound-Cognition/.github/main/assets/horizontal-lockup-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Unbound-Cognition/.github/main/assets/horizontal-lockup-black.svg">
+    <img alt="unbound cognition" src="https://raw.githubusercontent.com/Unbound-Cognition/.github/main/assets/horizontal-lockup-white.svg" width="380">
+  </picture>
+</p>
 
-tools and infrastructure for sovereign cognition. local-first, portable, and owned by the person running them.
+<p align="center">
+  <em>tools and infrastructure for sovereign cognition. local-first, portable, and owned by the person running them.</em>
+</p>
 
 most AI systems treat memory as a proprietary lock-in. when your agent's context and history live behind someone else's API, you don't own it. if you switch models, hit rate limits, or change providers, everything you built together is gone. 
 
